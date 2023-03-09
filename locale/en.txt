@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_D1CB3F86_C060_03FD_41D4_D928E71B98E9.label = cổng
+panorama_D1C9FF61_C060_0336_41C5_F084323ACA45.label = hành chính
+panorama_D1C974BF_C060_050B_41BA_ABA10FFF9A4B.label = sân
+panorama_D1C912CF_C060_1D0B_41DB_70177D9DFFEB.label = sân
+panorama_D1C94121_C060_3F37_41C7_930FC3071C14.label = sảnh
+panorama_D1C9EFDB_C060_030A_41E3_F5369091B9F8.label = trên cao
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 140
